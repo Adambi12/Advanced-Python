@@ -1,5 +1,7 @@
 ### Exercise 1:
 
+Just a small modification
+
 - Implement C or Fortran version for the code below
 
 ```python
